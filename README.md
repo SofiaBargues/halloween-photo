@@ -4,7 +4,7 @@ A Halloween replica and adaptation of [Christmas Photo](https://github.com/Sofia
 
 [Try the app](https://halloween-photo-seven.vercel.app/) · [Original Christmas app](https://christmas-photo.vercel.app/)
 
-![Halloween Photo Editor website preview](https://halloween-photo-seven.vercel.app/screenshot.png)
+![Halloween Photo Editor website preview](https://halloween-photo-seven.vercel.app/screenshot.png?v=2)
 
 ## What's different from the original?
 
@@ -69,4 +69,5 @@ New images are stored under halloween/ in Blob. Redis stores result links for 30
 The screenshot above shows the Halloween app and its before/after comparison. The demo portrait was created with imagegen from public/demo-before.png. Editing prompt: preserve the subject's identity, face, glasses, headphones, pose and room composition; add a purple witch-inspired costume, glowing pumpkins, cobwebs, bats and cinematic orange/violet lighting; no gore, text or watermark.
 
 Original project and Halloween adaptation by [Sofia Bargues](https://github.com/SofiaBargues).
+
 
